@@ -1,0 +1,70 @@
+{
+    "name": "Flir",
+    "description": "FLIR is the world leader in the design, manufacture, and marketing of thermal imaging infrared cameras.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20081-flir.jpg",
+    "tags": [
+        "api provider",
+        "cameras",
+        "drones",
+        "have api",
+        "imaging",
+        "industrial",
+        "security",
+        "sensors"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/flir\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Flir",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/20081-flir.jpg",
+            "humanURL": "http:\/\/flir.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/flir-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/developer.flir.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/developer.flir.com\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/flir-systems"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.flir.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "abilities@flir.com"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@flir.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/flir"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/flir.com"
+        }
+    ]
+}
